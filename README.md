@@ -58,3 +58,9 @@ Conjunto de mediciones horarias (≈9.3k registros) con variables como:
 **Resultado destacado:** **Random Forest** logra el mejor rendimiento (R² ~ 0.999). La variable dominante en la predicción vuelve a ser **`PT08.S2(NMHC)`**, seguida a distancia por señales como `PT08.S4(NO2)` y `CO(GT)`.
 
 ---
+
+### Colaboradores
+
+- Mario Martinez Lozano
+- Vittorio Perillo
+- Jose Alejandro Viveros Rotonda
